@@ -2,3 +2,4 @@ cat <<EOF> .gitignore
 
 *.pyo
 *.pyc
+.idea
